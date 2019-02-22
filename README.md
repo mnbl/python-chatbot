@@ -1,7 +1,7 @@
 ## Pthon Chatbot
 A simple chatbot using Python.
 
-> This version is tested to work on Ubuntu 18.02
+> This version is tested to work on Ubuntu 18.02.
 
 ### Requirement
 - Python 3
@@ -37,3 +37,4 @@ $ pip3 install -r requirements.txt
 ```sh
 $ python3 chatbot.py
 ```
+> Uncomment line 16 & 17 when running for first time
