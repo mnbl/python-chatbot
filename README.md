@@ -20,7 +20,7 @@ $ cd <created_folder>
 - Make git pull of the whole project
 ```sh
 $ git init .
-$ git remote add origin https://github.com/mnbl/puthon-chatbot.git/
+$ git remote add origin https://github.com/mnbl/python-chatbot.git/
 $ git pull origin master
 ```
 - Install pip3
